@@ -21,4 +21,7 @@ then we built it with C# using the C.O.S.M.O.S toolkit to create an actual Opera
 - Note: This statistics are not tested !!
 
 # Updates / Logs
-- Updates will be published here
+- Update v0.04 (v0.5.1 for the timeline)
+- Added fonts
+- Bootloader updated
+- Kernel updated
