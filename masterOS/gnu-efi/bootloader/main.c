@@ -118,6 +118,7 @@ int memcmp(const void* aptr, const void* bptr, size_t n){
 EFI_STATUS efi_main (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *SystemTable) {
 	InitializeLib(ImageHandle, SystemTable);
 	Print(L"Welcome to MasterOS\n\r");
+	Print(L"Current version: v0.05 and v0.5.2 for the timeline\n\r");
 
 	EFI_FILE* Kernel = LoadFile(NULL, L"kernel.elf", ImageHandle, SystemTable);
 	if (Kernel == NULL){
