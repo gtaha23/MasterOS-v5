@@ -1,3 +1,7 @@
+# Attention
+The creators are working on a new kernel using GRUB, once the basics are finished we are going to publish the repository. 
+Thank you for your patience.
+
 # MasterOS
 Think of an operating system that is lightweight,Modifiable ,Fully customizable ,and open source!
 Well you just met MasterOS.
